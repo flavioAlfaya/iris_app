@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "783432723901",
+    "project_id": "icervicais2",
+    "storage_bucket": "icervicais2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783432723901:android:ed2b7bee8807a3a715f6d4",
+        "android_client_info": {
+          "package_name": "com.mycompany.icervicaisapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783432723901-0jh9qh98r21o794p2515oudnocs6vva5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.icervicaisapp",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "783432723901-e2tbq3vr625j8c0pvshk5f0igtslqv6e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPw8eLo2GCqpl0nmj35O2WYsSb3m-vOPI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "783432723901-e2tbq3vr625j8c0pvshk5f0igtslqv6e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "783432723901-vc6gsnv92937bknf6984kc53jhn6vau8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.icervicaisapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
